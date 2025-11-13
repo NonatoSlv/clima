@@ -1,0 +1,13 @@
+# Node/Vite/React
+node_modules/
+dist/
+.DS_Store
+*.log
+vite.svg
+.env
+.env.*
+
+# Editor/OS
+.vscode/
+.idea/
+Thumbs.db
